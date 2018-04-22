@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'concurrent'
+
 class PaginatedCollector
   attr_reader :client, :parser
 
@@ -13,22 +15,30 @@ class PaginatedCollector
   end
 
   def filtered_set(query:, filter: nil)
-    cards = Set.new
-    page = 0
+    agent = Concurrent::Agent.new(Set.new)
 
-    loop do
-      page += 1
-      response = client.fetch_cards(page: page, query: query)
-      parsed_response = parser.card_list(response.body)
+    first_page_response = future_page(1, query, filter, agent).value
 
-      cards.merge(filter.is_a?(Proc) ? parsed_response.select(&filter) : parsed_response)
-      break unless load_next_page?(response)
+    if first_page_response.next_page?
+      jobs = 2.upto(first_page_response.total_pages).map do |page|
+        future_page(page, query, filter, agent)
+      end
+
+      jobs.map(&:value)
     end
 
-    cards
+    agent.await.value
   end
 
-  def load_next_page?(response)
-    response.success? && response.next_page?
+  def future_page(page, query, filter, agent)
+    Concurrent::Future.execute do
+      response = client.fetch_cards(page: page, query: query)
+      parsed_response = parser.card_list(response.body)
+      new_elements = filter.is_a?(Proc) ? parsed_response.select(&filter) : parsed_response
+
+      agent.send { |set| set | new_elements }
+
+      response
+    end
   end
 end
