@@ -8,4 +8,8 @@ MtgApiResponse = Struct.new(:success?, :status, :body,
   def next_page?
     current_page * page_size < total_count
   end
+
+  def total_pages
+    (total_count.to_f / page_size).ceil
+  end
 end

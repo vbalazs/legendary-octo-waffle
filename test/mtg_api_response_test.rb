@@ -18,4 +18,10 @@ class TestMtgApiResponse < Minitest::Test
 
     refute subject.next_page?
   end
+
+  def test_total_pages
+    subject = MtgApiResponse.new(total_count: 9, page_size: 2)
+
+    assert_equal 5, subject.total_pages
+  end
 end
