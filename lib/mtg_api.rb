@@ -1,12 +1,14 @@
 # frozen_string_literal: true
 
+require 'json'
 require 'net/http'
 
 class MtgApi
   API_BASE_URL = 'https://api.magicthegathering.io/v1'.freeze
 
-  def fetch_cards(page: 1, _query: {})
-    uri = URI(API_BASE_URL + "/cards?page=#{page}")
+  def fetch_cards(page: 1, query: {})
+    uri = URI(API_BASE_URL + '/cards')
+    uri.query = URI.encode_www_form(query.merge(page: page))
 
     res = Net::HTTP.get_response(uri)
     wrap_response(res)
