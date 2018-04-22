@@ -19,13 +19,14 @@ class TestMtgApi < Minitest::Test
     assert_equal JSON.parse(response_body_fixture), response.body
   end
 
-  def test_fetch_cards_parses_paginate_headers
+  def test_fetch_cards_parses_paginate_fields
     stub_request(:get, CARDS_PAGINATED_URL)
       .to_return(status: 200,
                  body: '{}',
                  headers: { 'Count' => 100, 'Total-Count' => 35_983, 'Page-Size' => 100 })
 
     response = @api.fetch_cards
+    assert_equal 1, response.current_page
     assert_equal 100, response.count
     assert_equal 35_983, response.total_count
     assert_equal 100, response.page_size
