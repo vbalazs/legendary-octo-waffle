@@ -14,6 +14,7 @@ class TestMtgApi < Minitest::Test
 
     response = @api.fetch_cards
     assert_kind_of MtgApiResponse, response
+    assert response.success?
     assert_equal 200, response.status
     assert_equal JSON.parse(response_body_fixture), response.body
   end
@@ -46,6 +47,7 @@ class TestMtgApi < Minitest::Test
       .to_return(status: 500, body: 'woaa error')
 
     response = @api.fetch_cards
+    refute response.success?
     assert_nil response.body
   end
 

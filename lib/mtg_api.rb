@@ -19,6 +19,7 @@ class MtgApi
   def wrap_response(res)
     MtgApiResponse.new(
       status: res.code.to_i,
+      success?: res.is_a?(Net::HTTPSuccess),
       body: parsed_body(res),
       count: res['Count'].to_i,
       total_count: res['Total-Count'].to_i,
