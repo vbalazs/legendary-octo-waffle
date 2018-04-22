@@ -59,4 +59,10 @@ class TestPaginatedCollector < Minitest::Test
 
     assert_equal ['King II', 'King X'], result.map(&:name).sort
   end
+
+  def test_all_calls_filtered_set
+    @repo.stub :filtered_set, [1, 2, 3] do
+      assert_equal [1, 2, 3], @repo.all
+    end
+  end
 end

@@ -3,11 +3,13 @@
 class PaginatedCollector
   attr_reader :client, :parser
 
-  PAGE_LIMIT = 10 # for development
-
   def initialize(client: MtgApi.new, parser: CardParser.new)
     @client = client
     @parser = parser
+  end
+
+  def all
+    filtered_set(query: {})
   end
 
   def filtered_set(query:, filter: nil)
@@ -27,8 +29,6 @@ class PaginatedCollector
   end
 
   def load_next_page?(response)
-    return false if response.current_page >= PAGE_LIMIT
-
     response.success? && response.next_page?
   end
 end
