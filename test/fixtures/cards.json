@@ -1,0 +1,4217 @@
+{
+  "cards": [
+    {
+      "name": "Adorable Kitten",
+      "manaCost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Host Creature — Cat",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cat"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, roll a six-sided die. You gain life equal to the result.",
+      "artist": "Andrea Radeck",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439390,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439390&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, roll a six-sided die. You gain life equal to the result.",
+      "originalType": "Host Creature — Cat",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "95ebdf85f4ea74d584dfdfb72e3de5001d0748a9"
+    },
+    {
+      "name": "Aerial Toastmaster",
+      "manaCost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Rigger",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Rigger"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\n{3}{W}, Sacrifice another artifact: Aerial Toastmaster assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "artist": "Carl Critchlow",
+      "number": "2",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439391,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439391&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\n{3}{W}, Sacrifice another artifact: Aerial Toastmaster assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Artifact Creature — Cyborg Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9bf93829d5f697e3d6324c439a932804bdfdec3f"
+    },
+    {
+      "name": "Amateur Auteur",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "flavor": "And thus at Maze's End\nthe runners end their strife.\nOur saving grace, that hooded kid,\nis now Guildpact for life.\n—RAVNICA! The Musical",
+      "artist": "McLean Kendree",
+      "number": "3",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439392,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439392&type=card",
+      "variations": [
+        439613,
+        439614,
+        439615
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "originalType": "Creature — Human",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "be5620e0c33888cebfcc16cc8f8638a9a5d0012f"
+    },
+    {
+      "name": "Amateur Auteur",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "flavor": "So Griselbrand was bound,\nhis rage brought to a halt.\n'Til Lili Vess came 'round\nasking, \"Hey, what's in the vault?\"\n—INNISTRAD! The Musical",
+      "artist": "McLean Kendree",
+      "number": "3",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439613,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439613&type=card",
+      "variations": [
+        439392,
+        439614,
+        439615
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "originalType": "Creature — Human",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b4b1553f73f2aa2cc8f9c89be34ea40d891f490f"
+    },
+    {
+      "name": "Amateur Auteur",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "flavor": "Elspeth, blessed by Heliod,\nstepped up where the hydra trod.\nSoon afterward, a lesson learned:\nattack the Champion, get burned!\n—THEROS! The Musical",
+      "artist": "McLean Kendree",
+      "number": "3",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439614,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439614&type=card",
+      "variations": [
+        439392,
+        439613,
+        439615
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "originalType": "Creature — Human",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "26f6d44a6ce1f84f1df55818331608ac1fabd288"
+    },
+    {
+      "name": "Amateur Auteur",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "flavor": "The two Eldrazi titans fell\nand set the ground a-rumbling!\n\"How come no one ever listens?\"\nold Ugin flew off grumbling.\n—ZENDIKAR! The Musical",
+      "artist": "McLean Kendree",
+      "number": "3",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439615,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439615&type=card",
+      "variations": [
+        439392,
+        439613,
+        439614
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Sacrifice Amateur Auteur: Destroy target enchantment.",
+      "originalType": "Creature — Human",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2a9816c2e1f13beb49f4aa4517fc0eec18efe9a1"
+    },
+    {
+      "name": "By Gnome Means",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{1}{W}, Remove a counter from a permanent you control: Create a 1/1 colorless Gnome artifact creature token.\n{1}{W}, Sacrifice an artifact: Choose any kind of counter a printed card refers to, then put one of that counter on target permanent.",
+      "flavor": "There's no race like gnome.",
+      "artist": "Sean Murray",
+      "number": "4",
+      "layout": "normal",
+      "multiverseid": 439393,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439393&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{1}{W}, Remove a counter from a permanent you control: Create a 1/1 colorless Gnome artifact creature token.\n{1}{W}, Sacrifice an artifact: Choose any kind of counter a printed card refers to, then put one of that counter on target permanent.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "052e80970e33f1093abccea03753cfcc2e328764"
+    },
+    {
+      "name": "Chivalrous Chevalier",
+      "manaCost": "{4}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhen Chivalrous Chevalier enters the battlefield, return a creature you control to its owner's hand unless you compliment an opponent.",
+      "flavor": "\"I treat every foe according to the highest codes of conduct. Then I kill them.\"",
+      "artist": "Dmitry Burmak",
+      "number": "5",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439394,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439394&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhen Chivalrous Chevalier enters the battlefield, return a creature you control to its owner's hand unless you compliment an opponent.",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c2ec96c070907abfd16eed0dd2886589e9f4f4b3"
+    },
+    {
+      "name": "Do-It-Yourself Seraph",
+      "manaCost": "{4}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Angel",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Angel"
+      ],
+      "rarity": "Mythic Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhenever Do-It-Yourself Seraph attacks, you may search your library for an artifact card, exile it, then shuffle your library.\nDo-It-Yourself Seraph has the text box of each card exiled with Do-It-Yourself Seraph in addition to its own.",
+      "artist": "David Sladek",
+      "number": "6",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 439395,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439395&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhenever Do-It-Yourself Seraph attacks, you may search your library for an artifact card, exile it, then shuffle your library.\nDo-It-Yourself Seraph has the text box of each card exiled with Do-It-Yourself Seraph in addition to its own.",
+      "originalType": "Artifact Creature — Cyborg Angel",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "670816ec292583c1e93f4facae8f8fb64eb32577"
+    },
+    {
+      "name": "Gimme Five",
+      "manaCost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "You gain 1 life for each person who high-fives you in the next thirty seconds. Each player in a silver-bordered game who high-fives you gains 1 life. (Offer high fives. Don't hit people.)",
+      "flavor": "\"Up high! To the side! Down low! To the left! Other left! Over here—\"",
+      "artist": "Jesper Ejsing",
+      "number": "7",
+      "layout": "normal",
+      "multiverseid": 439396,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439396&type=card",
+      "watermark": "Crossbreed Labs",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "You gain 1 life for each person who high-fives you in the next thirty seconds. Each player in a silver-bordered game who high-fives you gains 1 life. (Offer high fives. Don't hit people.)",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2fb7a44528894b69d7fd1a14fe2bb8df5748162c"
+    },
+    {
+      "name": "GO TO JAIL",
+      "manaCost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When GO TO JAIL enters the battlefield, exile target creature an opponent controls until GO TO JAIL leaves the battlefield.\nAt the beginning of the upkeep of the exiled card's owner, that player rolls two six-sided dice. If he or she rolls doubles, sacrifice GO TO JAIL.",
+      "artist": "Marco Teixeira",
+      "number": "8",
+      "layout": "normal",
+      "multiverseid": 439397,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439397&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When GO TO JAIL enters the battlefield, exile target creature an opponent controls until GO TO JAIL leaves the battlefield.\nAt the beginning of the upkeep of the exiled card's owner, that player rolls two six-sided dice. If he or she rolls doubles, sacrifice GO TO JAIL.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e02465a426b288c5a29e58c7b4811761888ca96f"
+    },
+    {
+      "name": "Half-Kitten, Half-",
+      "cmc": 0,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Cat",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Cat"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever you're dealt damage,\nAugment {2}{W} ({2}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "artist": "Andrea Radeck",
+      "number": "9",
+      "power": "+1",
+      "toughness": "+2",
+      "layout": "normal",
+      "multiverseid": 439398,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439398&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever you're dealt damage,\nAugment {2}{W} ({2}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "originalType": "Creature — Cat",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9576b7f72e0e87262f4bf6e76b1037adc6ce6acb"
+    },
+    {
+      "name": "Humming-",
+      "cmc": 0,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Bird",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Bird"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhenever you attack with two or more creatures,\nAugment {3}{W} ({3}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "artist": "Mark Behm",
+      "number": "10",
+      "power": "+2",
+      "toughness": "+3",
+      "layout": "normal",
+      "multiverseid": 439399,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439399&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhenever you attack with two or more creatures,\nAugment {3}{W} ({3}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "originalType": "Creature — Bird",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "98a36f71482154dfcead4f407c1e4fe034faf18f"
+    },
+    {
+      "name": "Jackknight",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever another artifact enters the battlefield under your control, put a +1/+1 counter on Jackknight. If that artifact is a Contraption, Jackknight gains lifelink until end of turn.",
+      "flavor": "\"My sword is at your service, as are my scissors, corkscrew, and bottle opener.\"",
+      "artist": "Ben Wootten",
+      "number": "11",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439400,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439400&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever another artifact enters the battlefield under your control, put a +1/+1 counter on Jackknight. If that artifact is a Contraption, Jackknight gains lifelink until end of turn.",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c2ce90dcb7fdc9f2d6d8501baa483f8e2a240cdc"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (a)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from black borders (Nothing with a black border can block, target, deal damage to, or attach to this creature.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the garlic press.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439401,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439401&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from black borders (Nothing with a black border can block, target, deal damage to, or attach to this creature.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e0391fdb8065fa5cc50b8a97356627ee8161ac92"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (b)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from even collector numbers (Nothing with an even collector number can block, target, deal damage to, or attach to this creature.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the gravy boat.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439625,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439625&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from even collector numbers (Nothing with an even collector number can block, target, deal damage to, or attach to this creature.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "8e2d7264aaa576e9be3f123bee8af33afe557c84"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (c)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from loose lips (Nothing with an open mouth in its artwork can block, target, deal damage to, or attach to this creature.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the juicer.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439626,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439626&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from loose lips (Nothing with an open mouth in its artwork can block, target, deal damage to, or attach to this creature.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "baafbd63fa41a71c6e9d92025c6435ddd9cc1782"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (d)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from odd collector numbers (Nothing with an odd collector number can block, target, deal damage to, or attach to this creature.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the melon baller.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439627,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439627&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from odd collector numbers (Nothing with an odd collector number can block, target, deal damage to, or attach to this creature.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5d7055b23d56b07cce509d24bf28457901f2ca6b"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (e)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from two-word names (Nothing with exactly two words in its name can block, target, deal damage to, or attach to this creature. Hyphenated words are one word.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the olive forks.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439628,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439628&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from two-word names (Nothing with exactly two words in its name can block, target, deal damage to, or attach to this creature. Hyphenated words are one word.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "500f291e7f24c282657ea267a767e503396dbf61"
+    },
+    {
+      "name": "Knight of the Kitchen Sink (f)",
+      "manaCost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "First strike, protection from watermarks (Nothing with a watermark can block, target, deal damage to, or attach to this creature.)",
+      "flavor": "\"Whew. For a minute, I thought I'd forgotten the tea cozy.\"",
+      "artist": "Mark A. Nelson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439629,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439629&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "First strike, protection from watermarks (Nothing with a watermark can block, target, deal damage to, or attach to this creature.)",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "397497ae65fef5f1a54cca1ea3dec67a2bce6def"
+    },
+    {
+      "name": "Knight of the Widget",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Vigilance\nKnight of the Widget's power and toughness are each equal to the number of Order of the Widget watermarks among permanents you control.",
+      "flavor": "His armor is lightweight titanium alloy, but his will is iron.",
+      "artist": "Emrah Elmasli",
+      "number": "13",
+      "power": "*",
+      "toughness": "*",
+      "layout": "normal",
+      "multiverseid": 439402,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439402&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Vigilance\nKnight of the Widget's power and toughness are each equal to the number of Order of the Widget watermarks among permanents you control.",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e1d43edd6a0911cb7648ccf256c907bce83b39a6"
+    },
+    {
+      "name": "Midlife Upgrade",
+      "manaCost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "As an additional cost to cast Midlife Upgrade, sacrifice X Contraptions.\nAssemble X plus one Contraptions. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "artist": "Hector Ortiz",
+      "number": "14",
+      "layout": "normal",
+      "multiverseid": 439403,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439403&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "As an additional cost to cast Midlife Upgrade, sacrifice X Contraptions.\nAssemble X plus one Contraptions. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1b598724dc8c6087c586a5be8486eaaa7378461c"
+    },
+    {
+      "name": "Oddly Uneven",
+      "manaCost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose one —\n• Destroy each creature with an odd number of words in its name. (Hyphenated words are one word.)\n• Destroy each creature with an even number of words in its name.",
+      "flavor": "The odds are good, but the goods are odd.",
+      "artist": "Ben Wootten",
+      "number": "15",
+      "layout": "normal",
+      "multiverseid": 439404,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439404&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose one —\n• Destroy each creature with an odd number of words in its name. (Hyphenated words are one word.)\n• Destroy each creature with an even number of words in its name.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f646942d4ffe8845d5dc4309414d66dc1718305a"
+    },
+    {
+      "name": "Old Guard",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Soldier",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Soldier"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{W}, {T}: Tap target creature without reminder text. (Reminder text is still any italicized text in parentheses that explains rules you already know.)",
+      "flavor": "\"You say you're capable of flying. You got any proof of that?\"",
+      "artist": "David Sladek",
+      "number": "16",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439405,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439405&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{W}, {T}: Tap target creature without reminder text. (Reminder text is still any italicized text in parentheses that explains rules you already know.)",
+      "originalType": "Artifact Creature — Cyborg Soldier",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9757a5ba588d459ffb595b7d55a9606c15a79422"
+    },
+    {
+      "name": "Ordinary Pony",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Host Creature — Horse",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Horse"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, you may exile target non-Horse creature you control that wasn't put onto the battlefield with this ability this turn, then return it to the battlefield under its owner's control.",
+      "artist": "Andrea Radeck",
+      "number": "17",
+      "power": "2",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439406,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439406&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, you may exile target non-Horse creature you control, then return it to the battlefield under its owner's control.",
+      "originalType": "Host Creature — Horse",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "94d8456cfadf9781927f2755fb077c04dde7c75f"
+    },
+    {
+      "name": "Rhino-",
+      "cmc": 0,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Rhino",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Rhino"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever this creature blocks,\nAugment {3}{W} ({3}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "artist": "YW Tang",
+      "number": "18",
+      "power": "+1",
+      "toughness": "+",
+      "layout": "normal",
+      "multiverseid": 439407,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439407&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever this creature blocks,\nAugment {3}{W} ({3}{W}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "originalType": "Creature — Rhino",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b97b40e2830e81a22e92dcc134c5d8968741bd5e"
+    },
+    {
+      "name": "Riveting Rigger",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Rigger",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Rigger"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When Riveting Rigger enters the battlefield, you may sacrifice another artifact. If you do, put two +1/+1 counters on Riveting Rigger and it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "\"Turn a blender into an arc welder with a portable fusion reactor and a frozen yogurt dispenser? We can do it!\"",
+      "artist": "Mark A. Nelson",
+      "number": "19",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439408,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439408&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When Riveting Rigger enters the battlefield, you may sacrifice another artifact. If you do, put two +1/+1 counters on Riveting Rigger and it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Artifact Creature — Cyborg Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9f924fcae58d743347ee131234cd3a077f1d693d"
+    },
+    {
+      "name": "Rules Lawyer",
+      "manaCost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Artifact Creature — Cyborg Advisor",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Advisor"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "State-based actions don't apply to you or other permanents you control. (You don't lose the game due to having 0 or less life or drawing from an empty library. Your creatures aren't destroyed due to damage or deathtouch and aren't put into a graveyard due to having 0 or less toughness. Your planeswalkers aren't put into a graveyard if they have 0 loyalty. You don't put a legendary permanent into a graveyard if you control two with the same name. Counters aren't removed from your permanents due to game rules. Permanents you control attached or combined illegally remain on the battlefield. For complete rules and regulations, see rule 704.)",
+      "artist": "Sean Murray",
+      "number": "20",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439409,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439409&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "State-based actions don't apply to you or other permanents you control. (You don't lose the game due to having 0 or less life or drawing from an empty library. Your creatures aren't destroyed due to damage or deathtouch and aren't put into a graveyard due to having 0 or less toughness. Your planeswalkers aren't put into a graveyard if they have 0 loyalty. You don't put a legendary permanent into a graveyard if you control two with the same name. Counters aren't removed from your permanents due to game rules. Permanents you control attached or combined illegally remain on the battlefield. For complete rules and regulations, see rule 704.)",
+      "originalType": "Artifact Creature — Cyborg Advisor",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0196f9bc90cb76748c9d8ca2dc72a046b1ce5123"
+    },
+    {
+      "name": "Sacrifice Play",
+      "manaCost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "A person outside the game chooses an attacking or blocking creature target opponent controls. That player sacrifices that creature.",
+      "flavor": "In recursive chess, one piece can capture another only after beating it in a game of recursive chess.",
+      "artist": "Matt Gaser",
+      "number": "21",
+      "layout": "normal",
+      "multiverseid": 439410,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439410&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "A person outside the game chooses an attacking or blocking creature target opponent controls. That player sacrifices that creature.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9ffaa3a04e16132786e4e60be903fdeaa88f6d81"
+    },
+    {
+      "name": "Shaggy Camel",
+      "manaCost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Host Creature — Camel",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Camel"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, creatures you control get +1/+1 until end of turn.",
+      "artist": "Kari Christensen",
+      "number": "22",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439411,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439411&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, creatures you control get +1/+1 until end of turn.",
+      "originalType": "Host Creature — Camel",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7a235bc598233c98e4c93f5f270a029f80eccf7f"
+    },
+    {
+      "name": "Side Quest",
+      "manaCost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Target player in a silver-bordered game you can see from your seat gains control of target creature you control until your next turn. At the beginning of your next upkeep, put two +1/+1 counters on that creature. (A creature is on the battlefield of only the game its controller is playing.)",
+      "artist": "Alex Konstad",
+      "number": "23",
+      "layout": "normal",
+      "multiverseid": 439412,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439412&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Target player in a silver-bordered game you can see from your seat gains control of target creature you control until your next turn. At the beginning of your next upkeep, put two +1/+1 counters on that creature. (A creature is on the battlefield of only the game its controller is playing.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2f03ec07ae907d66c5231587c1208108368af52c"
+    },
+    {
+      "name": "Success!",
+      "manaCost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Target creature gets +2/+2 until end of turn. If it's a host or has augment, it gains lifelink until end of turn.",
+      "flavor": "\"Those who witness my work often question its necessity. I've never understood that.\"\n—Dr. Julius Jumblemorph",
+      "artist": "Andrea Radeck",
+      "number": "24",
+      "layout": "normal",
+      "multiverseid": 439413,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439413&type=card",
+      "watermark": "Crossbreed Labs",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Target creature gets +2/+2 until end of turn. If it's a host or has augment, it gains lifelink until end of turn.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "72ffac1e1e20b8f4c948dd506b4b275f4119ad7f"
+    },
+    {
+      "name": "Teacher's Pet",
+      "manaCost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Cat Bird Scientist",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Cat",
+        "Bird",
+        "Scientist"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{2}{W}, Sacrifice Teacher's Pet: Search your library for a card with augment, combine it with target host you control, then shuffle your library.",
+      "flavor": "\"First attempt: unsuccessful. Instead of an amphibious chicken, hybridization produced an aquaphobic fish.\"",
+      "artist": "Mark Behm",
+      "number": "25",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439414,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439414&type=card",
+      "watermark": "Crossbreed Labs",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{2}{W}, Sacrifice Teacher's Pet: Search your library for a card with augment, combine it with target host you control, then shuffle your library.",
+      "originalType": "Creature — Cat Bird Scientist",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "19f3cfbed9b6814cd64b79cf3d7f28f22688b948"
+    },
+    {
+      "name": "Animate Library",
+      "manaCost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Enchant your library\nEnchanted library is an artifact creature on the battlefield with power and toughness each equal to the number of cards in it. It's still a library.\nIf enchanted library would leave the battlefield, exile Animate Library instead.",
+      "flavor": "Sometimes the books hit back.",
+      "artist": "Raymond Swanland",
+      "number": "26",
+      "layout": "normal",
+      "multiverseid": 439415,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439415&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Enchant your library\nEnchanted library is an artifact creature on the battlefield with power and toughness each equal to the number of cards in it. It's still a library.\nIf enchanted library would leave the battlefield, exile Animate Library instead.",
+      "originalType": "Enchantment — Aura",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "33e966139895bbeb803ca28d3517c2adea6be752"
+    },
+    {
+      "name": "Blurry Beeble",
+      "manaCost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Artifact Creature — Cyborg Beeble",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Beeble"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Blurry (This creature can be blocked only if defending player was wearing glasses as it was cast.)\nWhenever Blurry Beeble deals combat damage to a player, you may draw a card. If you do, discard a card.",
+      "artist": "Jeff Miracola",
+      "number": "27",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439416,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439416&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Blurry (This creature can be blocked only if defending player was wearing glasses as it was cast.)\nWhenever Blurry Beeble deals combat damage to a player, you may draw a card. If you do, discard a card.",
+      "originalType": "Artifact Creature — Cyborg Beeble",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a2715551b70ccb1086f20ba776f346f714efc413"
+    },
+    {
+      "name": "Chipper Chopper",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Artifact Creature — Cyborg Rigger",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Rigger"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhen Chipper Chopper enters the battlefield, you may sacrifice another artifact. If you do, put two +1/+1 counters on Chipper Chopper and it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "artist": "Dmitry Burmak",
+      "number": "28",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439417,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439417&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhen Chipper Chopper enters the battlefield, you may sacrifice another artifact. If you do, put two +1/+1 counters on Chipper Chopper and it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Artifact Creature — Cyborg Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "6e2f7e718cbe35bc6706c921dc53083aab92ddc5"
+    },
+    {
+      "name": "Clocknapper",
+      "manaCost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When Clocknapper enters the battlefield, choose beginning phase, precombat main phase, combat phase, postcombat main phase, or ending phase. Steal that phase from target player during his or her next turn. (That phase occurs as though it's your turn instead.)",
+      "artist": "Marco Teixeira",
+      "number": "29",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439418,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439418&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When Clocknapper enters the battlefield, choose beginning phase, precombat main phase, combat phase, postcombat main phase, or ending phase. Steal that phase from target player during his or her next turn. (That phase occurs as though it's your turn instead.)",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d8a5cb9b297b01bc999519b38d2e1bf0666fb8a7"
+    },
+    {
+      "name": "Crafty Octopus",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Host Creature — Octopus Rigger",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Octopus",
+        "Rigger"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, this creature assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "artist": "Mark Behm",
+      "number": "30",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439419,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439419&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, this creature assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Host Creature — Octopus Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a89be2fc64c22b613826744ebd4ad7c2e25ff066"
+    },
+    {
+      "name": "Crow Storm",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Create a 1/2 blue Bird creature token with flying named Storm Crow.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+      "flavor": "Storm crow lonely, boon for a birder.\nStorm crows together, likely a murder.",
+      "artist": "YW Tang",
+      "number": "31",
+      "layout": "normal",
+      "multiverseid": 439420,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439420&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Create a 1/2 blue Bird creature token with flying named Storm Crow.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "72ba92028167296bc5ccb6617861b0c02f927c36"
+    },
+    {
+      "name": "Defective Detective",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Defective Detective can't be blocked.\nWhen Defective Detective enters the battlefield, a person outside the game looks at target opponent's hand and chooses a card from it. That player reveals that card.",
+      "flavor": "Nothing gets by her . . . except the evidence, the motive, and the culprit.",
+      "artist": "Matt Dixon",
+      "number": "32",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439421,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439421&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Defective Detective can't be blocked.\nWhen Defective Detective enters the battlefield, a person outside the game looks at target opponent's hand and chooses a card from it. That player reveals that card.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c110136c38e5109b8d95732ecb2384434073f101"
+    },
+    {
+      "name": "Five-Finger Discount",
+      "manaCost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Put target nonland permanent into your hand. You may spend mana as though it were mana of any color the next time you cast that card.",
+      "flavor": "\"Dognapping is such an ugly word. I would characterize this as a unilateral redistribution of pets.\"",
+      "artist": "Milivoj Ćeran",
+      "number": "33",
+      "layout": "normal",
+      "multiverseid": 439422,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439422&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Put target nonland permanent into your hand. You may spend mana as though it were mana of any color the next time you cast that card.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "16b830fd7c40e495ced0b5ed354813671b2f2fd0"
+    },
+    {
+      "name": "Graveyard Busybody",
+      "manaCost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "All graveyards are also your graveyards.\nGraveyard Busybody's power and toughness are each equal to the number of cards with flavor text in your graveyards.",
+      "flavor": "You have to hang around the graveyard if you want to catch the talking dead.",
+      "artist": "Bram Sels",
+      "number": "34",
+      "power": "*",
+      "toughness": "*",
+      "layout": "normal",
+      "multiverseid": 439423,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439423&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "All graveyards are also your graveyards.\nGraveyard Busybody's power and toughness are each equal to the number of cards with flavor text in your graveyards.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e004b43925c8e96171f4e004e72f9810746f5f01"
+    },
+    {
+      "name": "Half-Shark, Half-",
+      "cmc": 0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Fish",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Fish"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "At the beginning of your upkeep,\nAugment {5}{U} ({5}{U}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "artist": "Brynn Metheney",
+      "number": "35",
+      "power": "+3",
+      "toughness": "+2",
+      "layout": "normal",
+      "multiverseid": 439424,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439424&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "At the beginning of your upkeep,\nAugment {5}{U} ({5}{U}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "originalType": "Creature — Fish",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "31a28d4339c437d527d152c8c5a97b87ef15f3a0"
+    },
+    {
+      "name": "Incite Insight",
+      "manaCost": "{X}{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Assemble X Contraptions. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "After a hundred failed patent applications, Cornelian was stunned to find that no one had ever created a steam-powered autonomous ice cream delivery system. He immediately designed a gnome with scoops for hands.",
+      "artist": "David Sladek",
+      "number": "36",
+      "layout": "normal",
+      "multiverseid": 439425,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439425&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Assemble X Contraptions. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7eb601c927d3d149d2012926c1a458bdbec39ee2"
+    },
+    {
+      "name": "Kindly Cognician",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Artifact Creature — Cyborg Artificer",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Artificer"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Spells you cast that refer to artifacts or Contraptions in their rules text cost {1} less to cast.",
+      "flavor": "\"What's wrong, dear? Nothing a 44-to-22 bronze spur gear and reducer pairing couldn't fix, I bet.\"",
+      "artist": "Mark Behm",
+      "number": "37",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439426,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439426&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Spells you cast that refer to artifacts or Contraptions in their rules text cost {1} less to cast.",
+      "originalType": "Artifact Creature — Cyborg Artificer",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a9cdcc22575aa05579bdfe79c86851e01ca79a9f"
+    },
+    {
+      "name": "Magic Word",
+      "manaCost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Enchant creature\nAs Magic Word enters the battlefield, choose a word.\nWhisper the chosen word: Tap enchanted creature.",
+      "artist": "Carl Frank",
+      "number": "38",
+      "layout": "normal",
+      "multiverseid": 439427,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439427&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Enchant creature\nAs Magic Word enters the battlefield, choose a word.\nWhisper the chosen word: Tap enchanted creature.",
+      "originalType": "Enchantment — Aura",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "267f20974fa8ccd4d3b5235049cd3ba3548fd2c4"
+    },
+    {
+      "name": "Mer Man",
+      "manaCost": "{4}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Host Creature — Human Fish",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Fish"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, you may draw a card.",
+      "artist": "Mark Behm",
+      "number": "39",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439428,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439428&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, you may draw a card.",
+      "originalType": "Host Creature — Human Fish",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "52c4ea3930cb61d9992dd424adf32ad212418a63"
+    },
+    {
+      "name": "More or Less",
+      "manaCost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Add or subtract 1 or one from a number or number word on target spell or permanent until end of turn.",
+      "flavor": "Why was 5 afraid of 6? Because 678.",
+      "artist": "Chris Seaman",
+      "number": "40",
+      "layout": "normal",
+      "multiverseid": 439429,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439429&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Add or subtract 1 or one from a number or number word on target spell or permanent until end of turn.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b6abff553f451784656d019e2f3092908c089dcc"
+    },
+    {
+      "name": "Novellamental",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nNovellamental can block only creatures with flying.",
+      "flavor": "\"My grandmother had sold the rest of her jewelry long ago, but she left a particular necklace in my care: a golden chain, bearing a raven-shaped charm.\"",
+      "artist": "Tom Babbey",
+      "number": "41",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439430,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439430&type=card",
+      "variations": [
+        439622,
+        439623,
+        439624
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nNovellamental can block only creatures with flying.",
+      "originalType": "Creature — Elemental",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a42e861bf62bf2c7ab4a9dc27c6a95e365682ad2"
+    },
+    {
+      "name": "Novellamental",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nNovellamental can block only creatures with flying.",
+      "flavor": "\"This pendant was my grandmother's legacy. I sought solitude among the trees as moonlight danced on their branches, her gift safe in my hand.\"",
+      "artist": "Tom Babbey",
+      "number": "41",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439622,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439622&type=card",
+      "variations": [
+        439430,
+        439623,
+        439624
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nNovellamental can block only creatures with flying.",
+      "originalType": "Creature — Elemental",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d89a641ad1f6be21191c4681d6f6f50f7eefa1dd"
+    },
+    {
+      "name": "Novellamental",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nNovellamental can block only creatures with flying.",
+      "flavor": "\"The chain fit my neck perfectly, but my heart fluttered with chills as the cool metal came to rest against my chest. I closed the clasp and waited, silent.\"",
+      "artist": "Tom Babbey",
+      "number": "41",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439623,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439623&type=card",
+      "variations": [
+        439430,
+        439622,
+        439624
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nNovellamental can block only creatures with flying.",
+      "originalType": "Creature — Elemental",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "16f6177a902937dad25cb39d597abd37e5098d8e"
+    },
+    {
+      "name": "Novellamental",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nNovellamental can block only creatures with flying.",
+      "flavor": "\"My heart filled with warmth, and I felt my feet lift from the ground. Suddenly, I was free—free to soar, the homes beneath me shrinking to specks on a map.\"",
+      "artist": "Tom Babbey",
+      "number": "41",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439624,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439624&type=card",
+      "variations": [
+        439430,
+        439622,
+        439623
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nNovellamental can block only creatures with flying.",
+      "originalType": "Creature — Elemental",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "fd57e4f7b0686a54fc467ee1653a7aeb55d0c169"
+    },
+    {
+      "name": "Numbing Jellyfish",
+      "manaCost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Host Creature — Jellyfish",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Jellyfish"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, roll a six-sided die. Target player puts the top X cards of his or her library into his or her graveyard, where X is the result.",
+      "artist": "Matt Dixon",
+      "number": "42",
+      "power": "2",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439431,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439431&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, roll a six-sided die. Target player puts the top X cards of his or her library into his or her graveyard, where X is the result.",
+      "originalType": "Host Creature — Jellyfish",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ae42424f75b1853df27a021b7df62bcd98179c59"
+    },
+    {
+      "name": "S.N.E.A.K. Dispatcher",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{2}{U}, {T}: Look at the top card of target player's library. If it has an Agents of S.N.E.A.K. watermark, you may reveal it and put it into your hand. Otherwise, put it on the top or bottom of its owner's library.",
+      "artist": "John Thacker",
+      "number": "43",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439432,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439432&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{2}{U}, {T}: Look at the top card of target player's library. If it has an Agents of S.N.E.A.K. watermark, you may reveal it and put it into your hand. Otherwise, put it on the top or bottom of its owner's library.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "dca79c909323bb9ff4929c211130fc3db2922931"
+    },
+    {
+      "name": "Socketed Sprocketer",
+      "manaCost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Artifact Creature — Cyborg Knight",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Cyborg",
+        "Knight"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{T}: Uninstall all results from Socketed Sprocketer, then roll a six-sided die. Install the result on Socketed Sprocketer. (Put the die on this card.)\nYou may uninstall a result from Socketed Sprocketer to use it for a die you rolled.\nUninstall a 6 from Socketed Sprocketer: Draw a card.",
+      "artist": "David Sladek",
+      "number": "44",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439433,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439433&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{T}: Uninstall all results from Socketed Sprocketer, then roll a six-sided die. Install the result on Socketed Sprocketer. (Put the die on this card.)\nYou may uninstall a result from Socketed Sprocketer to use it for a die you rolled.\nUninstall a 6 from Socketed Sprocketer: Draw a card.",
+      "originalType": "Artifact Creature — Cyborg Knight",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "93edc2a01930a06bac3d9e4fc2e3232f7507347a"
+    },
+    {
+      "name": "Spell Suck",
+      "manaCost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Counter target spell, then assemble a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "S-U-C-K",
+      "artist": "Michael Phillippi",
+      "number": "45",
+      "layout": "normal",
+      "multiverseid": 439434,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439434&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Counter target spell, then assemble a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "4a8b04db77c1cfb235eb6d992edd19628454a08b"
+    },
+    {
+      "name": "Spy Eye",
+      "manaCost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Eye Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Eye",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhenever Spy Eye deals combat damage to a player, you may draw a card from that player's library.",
+      "flavor": "\"That pigeon knows something, and we will find out what.\"\n—X",
+      "artist": "Ben Wootten",
+      "number": "46",
+      "power": "1",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439435,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439435&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhenever Spy Eye deals combat damage to a player, you may draw a card from that player's library.",
+      "originalType": "Creature — Eye Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5a8a17c3599dbd3a6cc64c99154abf3abc49a1c3"
+    },
+    {
+      "name": "Suspicious Nanny",
+      "manaCost": "{4}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Human Spy Rigger",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy",
+        "Rigger"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Suspicious Nanny deals combat damage to a player, it reassembles target Contraption that player controls. (Gain control of it and move it onto one of your sprockets.)",
+      "flavor": "\"Afternoon, folks. Lovely day for a stroll with my authentic human baby.\"",
+      "artist": "Chris Seaman",
+      "number": "47",
+      "power": "3",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 439436,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439436&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Suspicious Nanny deals combat damage to a player, it reassembles target Contraption that player controls. (Gain control of it and move it onto one of your sprockets.)",
+      "originalType": "Creature — Human Spy Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b96f70749bc098a8e4132af5732120002215a80c"
+    },
+    {
+      "name": "Time Out",
+      "manaCost": "{4}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Roll a six-sided die. Put target nonland permanent into its owner's library just beneath the top X cards of that library, where X is the result.",
+      "flavor": "Anyone other than a goblin would've gotten only a hand caught in the cookie jar.",
+      "artist": "Dave Allsop",
+      "number": "48",
+      "layout": "normal",
+      "multiverseid": 439437,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439437&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Roll a six-sided die. Put target nonland permanent into its owner's library just beneath the top X cards of that library, where X is the result.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "b45940bf6979a251c6ec5426ad4d482718ed507a"
+    },
+    {
+      "name": "Very Cryptic Command (b)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Untap two target permanents.\n• Tap each permanent target player controls with exactly one word in its name.\n• Discard all the cards in your hand, then draw that many cards.\n• Return target instant or sorcery card from your graveyard to your hand.",
+      "artist": "Zoltan Boros",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439438,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439438&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Untap two target permanents.\n• Tap each permanent target player controls with exactly one word in its name.\n• Discard all the cards in your hand, then draw that many cards.\n• Return target instant or sorcery card from your graveyard to your hand.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ce867f89c4eea389f92eaf29f3e5eca60db255b8"
+    },
+    {
+      "name": "Very Cryptic Command (a)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Switch target creature's power and toughness until end of turn.\n• Target creature can't be blocked this turn.\n• Draw a card. If that card's art is by Wayne England, you may reveal it and draw another card.\n• Assemble a Contraption.",
+      "artist": "Wayne England",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439645,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439645&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Switch target creature's power and toughness until end of turn.\n• Target creature can't be blocked this turn.\n• Draw a card. If that card's art is by Wayne England, you may reveal it and draw another card.\n• Assemble a Contraption.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "80357df8d37077125aa2f76602ee2359e5fd9529"
+    },
+    {
+      "name": "Very Cryptic Command (c)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Draw a card from an opponent's library.\n• Copy target instant or sorcery spell. You may choose new targets for the copy.\n• Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.\n• Create a 1/1 colorless Gnome artifact creature token.",
+      "artist": "Zoltan Boros",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439646,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439646&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Draw a card from an opponent's library.\n• Copy target instant or sorcery spell. You may choose new targets for the copy.\n• Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.\n• Create a 1/1 colorless Gnome artifact creature token.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "3b56e0e2b16c17133f28e9e1539b5fc1d66d4f14"
+    },
+    {
+      "name": "Very Cryptic Command (d)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Return target permanent to its controller's hand.\n• Draw two cards, then discard a card.\n• Change the target of target spell with a single target.\n• Turn over target nontoken creature.",
+      "artist": "Zoltan Boros",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439647,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439647&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Return target permanent to its controller's hand.\n• Draw two cards, then discard a card.\n• Change the target of target spell with a single target.\n• Turn over target nontoken creature.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7e70b405a3d9393de09084182ccf6d4dbb06610f"
+    },
+    {
+      "name": "Very Cryptic Command (e)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Counter target black-bordered spell.\n• Return target creature to its owner's hand.\n• Untap each permanent you control with a watermark.\n• Roll two six-sided dice. Target player puts the top X cards of his or her library into his or her graveyard, where X is the total of those results.",
+      "artist": "Zoltan Boros",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439648,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439648&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Counter target black-bordered spell.\n• Return target creature to its owner's hand.\n• Untap each permanent you control with a watermark.\n• Roll two six-sided dice. Target player puts the top X cards of his or her library into his or her graveyard, where X is the total of those results.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f5801b2c2f2605d4226c929f9960a1365dad4f1b"
+    },
+    {
+      "name": "Very Cryptic Command (f)",
+      "manaCost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Choose two —\n• Scry 3.\n• Create a 2/2 black Rogue creature token with menace.\n• Add or subtract 1 or one from a number or number word on target spell or permanent until end of turn.\n• Return all artifacts target player controls to their owner's hand.",
+      "artist": "Zoltan Boros",
+      "number": "49",
+      "layout": "normal",
+      "multiverseid": 439649,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439649&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Choose two —\n• Scry 3.\n• Create a 2/2 black Rogue creature token with menace.\n• Add or subtract 1 or one from a number or number word on target spell or permanent until end of turn.\n• Return all artifacts target player controls to their owner's hand.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f2a48daf1170b98aa25f5964a03d3a70cd074edc"
+    },
+    {
+      "name": "Wall of Fortune",
+      "manaCost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Artifact Creature — Wall",
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "subtypes": [
+        "Wall"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Defender\nYou may tap an untapped Wall you control to have any player reroll a die that player rolled.",
+      "flavor": "\"You need a six? All right everyone, she needs a six!\"",
+      "artist": "Tom Babbey",
+      "number": "50",
+      "power": "0",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 439439,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439439&type=card",
+      "watermark": "Order of the Widget",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Defender\nYou may tap an untapped Wall you control to have any player reroll a die that player rolled.",
+      "originalType": "Artifact Creature — Wall",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0819e11a0fd314bd882f9900514d4d28334557f8"
+    },
+    {
+      "name": "Big Boa Constrictor",
+      "manaCost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Host Creature — Snake",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Snake"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, roll a six-sided die. Target opponent loses life equal to the result.",
+      "artist": "Kari Christensen",
+      "number": "51",
+      "power": "1",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439440,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439440&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, roll a six-sided die. Target opponent loses life equal to the result.",
+      "originalType": "Host Creature — Snake",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1664fb6d213c082d59b6c990a2b42bcc2e5f9ca7"
+    },
+    {
+      "name": "capital offense",
+      "manaCost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "target creature gets -x/-x until end of turn, where x is the number of times a capital letter appears in its rules text. (ignore reminder text and flavor text.)",
+      "flavor": "part basket case, all lowercase.",
+      "artist": "Matt Dixon",
+      "number": "52",
+      "layout": "normal",
+      "multiverseid": 439441,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439441&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "target creature gets -x/-x until end of turn, where x is the number of times a capital letter appears in its rules text. (ignore reminder text and flavor text.)",
+      "originalType": "instant",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "4b2880fb6417bec52544b038760c55b9a56c5d02"
+    },
+    {
+      "name": "Dirty Rat",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Host Creature — Rat",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Rat"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, target opponent discards a card.",
+      "artist": "Kari Christensen",
+      "number": "53",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439442,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439442&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, target opponent discards a card.",
+      "originalType": "Host Creature — Rat",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ff325490c01309d08c50ca9a2e9ddc4445624460"
+    },
+    {
+      "name": "Extremely Slow Zombie",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "flavor": "Brrrrrrrrrrrr . . .",
+      "artist": "Emrah Elmasli",
+      "number": "54",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439443,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439443&type=card",
+      "variations": [
+        439616,
+        439617,
+        439618
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c4217f94987a430c6dca0b1b0721ddcf4d5a3d0c"
+    },
+    {
+      "name": "Extremely Slow Zombie",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "flavor": ". . . aaaaaaiiii . . .",
+      "artist": "Emrah Elmasli",
+      "number": "54",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439616,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439616&type=card",
+      "variations": [
+        439443,
+        439617,
+        439618
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "52507923aa50149f368521bd3e65e2fd46ca317f"
+    },
+    {
+      "name": "Extremely Slow Zombie",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "flavor": ". . . iiiiiiinnnn . . .",
+      "artist": "Emrah Elmasli",
+      "number": "54",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439617,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439617&type=card",
+      "variations": [
+        439443,
+        439616,
+        439618
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e1c139adc3b4a403ed0b7186c2215fa9b19d3a62"
+    },
+    {
+      "name": "Extremely Slow Zombie",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "flavor": ". . . nnnnnssssss!",
+      "artist": "Emrah Elmasli",
+      "number": "54",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439618,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439618&type=card",
+      "variations": [
+        439443,
+        439616,
+        439617
+      ],
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Last strike (This creature deals combat damage after creatures without last strike.)",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f7f8d1ab2a404af96c2ad38be3b8a2c4626cbeb3"
+    },
+    {
+      "name": "Finders, Keepers",
+      "manaCost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Destroy target creature, then assemble a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "The S.N.E.A.K. Code clearly permits looting corpses for parts. That just meant Agent 47.3 had to make sure her target was dead first.",
+      "artist": "Mark Behm",
+      "number": "55",
+      "layout": "normal",
+      "multiverseid": 439444,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439444&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Destroy target creature, then assemble a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c5e0986ab99abbcb98e59fb7396c495be54ec19a"
+    },
+    {
+      "name": "Hangman",
+      "manaCost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Villain",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Villain"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "As Hangman enters the battlefield, secretly note a word with six to eight letters.\n{1}: Target player who doesn't control Hangman guesses the noted word or an unguessed letter in that word. If he or she guesses wrong, put a +1/+1 counter on Hangman. Any player may activate this ability.\nWhen a player guesses the noted word or all of its letters, sacrifice Hangman.",
+      "artist": "Alex Konstad",
+      "number": "56",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439445,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439445&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "As Hangman enters the battlefield, secretly note a word with six to eight letters.\n{1}: Target player who doesn't control Hangman guesses the noted word or an unguessed letter in that word. If he or she guesses wrong, put a +1/+1 counter on Hangman. Any player may activate this ability.\nWhen a player guesses the noted word or all of its letters, sacrifice Hangman.",
+      "originalType": "Creature — Human Villain",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "63672eda54f6e1a4d86b6a4907f834e686427dee"
+    },
+    {
+      "name": "Hazmat Suit (Used)",
+      "manaCost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace.\nWhenever a player's skin or fingernail touches enchanted creature, that player loses 2 life.",
+      "artist": "Michael Phillippi",
+      "number": "57",
+      "layout": "normal",
+      "multiverseid": 439446,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439446&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Enchant creature\nEnchanted creature gets +2/+1 and has menace.\nWhenever a player's skin or fingernail touches enchanted creature, that player loses 2 life.",
+      "originalType": "Enchantment — Aura",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f691b295f552fbeb825f2302d48a6a169da72f0e"
+    },
+    {
+      "name": "Hoisted Hireling",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Hoisted Hireling has flying as long as it's being held above the battlefield.",
+      "flavor": "Zarv no longer trusted the kitten posters telling him to \"hang in there.\"",
+      "artist": "Alex Konstad",
+      "number": "58",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439447,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439447&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Hoisted Hireling has flying as long as it's being held above the battlefield.",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "31e62768a05e8a7ab910db33d2a7b9bcff5cafb8"
+    },
+    {
+      "name": "Inhumaniac",
+      "manaCost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Brainiac",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Brainiac"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "At the beginning of your upkeep, roll a six-sided die. On a 3 or 4, put a +1/+1 counter on Inhumaniac. On a 5 or higher, put two +1/+1 counters on it. On a 1, remove all +1/+1 counters from Inhumaniac.",
+      "flavor": "For the mind-minded mastermind.",
+      "artist": "Matt Dixon",
+      "number": "59",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439448,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439448&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "At the beginning of your upkeep, roll a six-sided die. On a 3 or 4, put a +1/+1 counter on Inhumaniac. On a 5 or higher, put two +1/+1 counters on it. On a 1, remove all +1/+1 counters from Inhumaniac.",
+      "originalType": "Creature — Brainiac",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "395740ff7caf7ea2f9da98ba0b6b6be99b060cb2"
+    },
+    {
+      "name": "Masterful Ninja",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Troll Ninja",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Troll",
+        "Ninja"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Haste\nReveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and in your hand until end of turn.\n{1}{B}: Masterful Ninja gets +1/+1 until end of turn.",
+      "artist": "Matt Gaser",
+      "number": "60",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439449,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439449&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Haste\nReveal Masterful Ninja from your hand: Masterful Ninja is on the battlefield and in your hand until end of turn.\n{1}{B}: Masterful Ninja gets +1/+1 until end of turn.",
+      "originalType": "Creature — Troll Ninja",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "14a6af046cf0c0b6d5cdc5818bb35854d0c6f4f7"
+    },
+    {
+      "name": "Ninja",
+      "cmc": 0,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Ninja",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Ninja"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "You may activate Ninja's augment ability any time you could cast an instant.\nWhenever this creature deals combat damage to a player,\nAugment {2}{B} ({2}{B}, Reveal this card from your hand: Combine it with target host. Augment only as—oh, nevermind.)",
+      "artist": "David Sladek",
+      "number": "61",
+      "power": "+1",
+      "toughness": "+0",
+      "layout": "normal",
+      "multiverseid": 439450,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439450&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "You may activate Ninja's augment ability any time you could cast an instant.\nWhenever this creature deals combat damage to a player,\nAugment {2}{B} ({2}{B}, Reveal this card from your hand: Combine it with target host. Augment only as—oh, nevermind.)",
+      "originalType": "Creature — Ninja",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a797c14be88f27aa2eef813cb9b382fffac1acbe"
+    },
+    {
+      "name": "Old-Fashioned Vampire",
+      "manaCost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Vampyre",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Vampyre"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nOld-Fashioned Vampire gets +2/+2 and has deathtouch as long as it's dark outdoors.",
+      "flavor": "\"Stalking hard or hardly stalking, am I right?\"",
+      "artist": "Simon Dominic",
+      "number": "62",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439451,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439451&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nOld-Fashioned Vampire gets +2/+2 and has deathtouch as long as it's dark outdoors.",
+      "originalType": "Creature — Vampyre",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7da81122b7dfe8f8d60a378ef21978b845d12db3"
+    },
+    {
+      "name": "Over My Dead Bodies",
+      "manaCost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Creature cards in graveyards can attack and block as though they were on the battlefield, can block or be blocked only by creature cards in graveyards, are Zombies in addition to their other types, and have undeathtouch. (If they would deal damage to a creature card, exile that creature card instead.)\nCreature cards in your graveyard have haste.",
+      "artist": "Even Amundsen",
+      "number": "63",
+      "layout": "normal",
+      "multiverseid": 439452,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439452&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Creature cards in graveyards can attack and block as though they were on the battlefield, can block or be blocked only by creature cards in graveyards, are Zombies in addition to their other types, and have undeathtouch. (If they would deal damage to a creature card, exile that creature card instead.)\nCreature cards in your graveyard have haste.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5d10852c4ced5abbb304aaad1a4bc29630e6a623"
+    },
+    {
+      "name": "Overt Operative",
+      "manaCost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Ninja Rigger",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Ninja",
+        "Rigger"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Menace\nWhenever Overt Operative deals combat damage to a player, it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "Saw her coming. Didn't matter.",
+      "artist": "Bram Sels",
+      "number": "64",
+      "power": "2",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": 439453,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439453&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Menace\nWhenever Overt Operative deals combat damage to a player, it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Creature — Human Ninja Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "50e067acfde5c2dcfa86760b328ee50cbe2e50ed"
+    },
+    {
+      "name": "\"Rumors of My Death . . .\"",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{3}{B}, Exile a permanent you control with a League of Dastardly Doom watermark: Return a permanent card with a League of Dastardly Doom watermark from your graveyard to the battlefield.",
+      "flavor": "By the fourth funeral, the mooks had gotten pretty good at them.",
+      "artist": "Alex Konstad",
+      "number": "65",
+      "layout": "normal",
+      "multiverseid": 439454,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439454&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{3}{B}, Exile a permanent you control with a League of Dastardly Doom watermark: Return a permanent card with a League of Dastardly Doom watermark from your graveyard to the battlefield.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d345f7cb7b9388213afca0b8982806b1f9e130a8"
+    },
+    {
+      "name": "Skull Saucer",
+      "manaCost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie Head",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie",
+        "Head"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Flying\nWhen Skull Saucer enters the battlefield, destroy target creature and put your head on the table. Sacrifice Skull Saucer when your head stops touching the table.",
+      "flavor": "No body is ready for this kind of power.",
+      "artist": "Mike Burns",
+      "number": "66",
+      "power": "4",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439455,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439455&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Flying\nWhen Skull Saucer enters the battlefield, destroy target creature and put your head on the table. Sacrifice Skull Saucer when your head stops touching the table.",
+      "originalType": "Creature — Zombie Head",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "dc31dde433af7ee633043a35a011e9db48ac8183"
+    },
+    {
+      "name": "Sly Spy (a)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, that player reveals his or her hand. You choose a card from it with the longest name. That player discards that card.",
+      "flavor": "The Agents of S.N.E.A.K.—Serious, Nonstop Espionage and Kidnapping.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439456,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439456&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, that player reveals his or her hand. You choose a card from it with the longest name. That player discards that card.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "520a73ed79ccae19d96842c0d695b7c319f1bda5"
+    },
+    {
+      "name": "Sly Spy (b)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, you may destroy target creature facing left in its art. (Creatures without faces don't face anywhere.)",
+      "flavor": "The Agents of S.N.E.A.K.—Silent Ninjas Evading Any Kapture.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439650,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439650&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, you may destroy target creature facing left in its art. (Creatures without faces don't face anywhere.)",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "22d4864d2e79a13c6cb4856e51b22fca5d296a77"
+    },
+    {
+      "name": "Sly Spy (c)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, that player loses a finger until Sly Spy leaves the battlefield. (The finger is chosen by its owner and can't roll dice or touch cards.)",
+      "flavor": "The Agents of S.N.E.A.K.—Sinister Nerds Eliminating All Knowledge.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439651,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439651&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, that player loses a finger until Sly Spy leaves the battlefield. (The finger is chosen by its owner and can't roll dice or touch cards.)",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c24ee4228cf44fc16e8b4b0ef9d7b5d2e78b7b3e"
+    },
+    {
+      "name": "Sly Spy (d)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, you may destroy target creature facing right in its art. (Creatures without faces don't face anywhere.)",
+      "flavor": "The Agents of S.N.E.A.K.—Skilled, Notably Efficient Assassin-Kickers.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439652,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439652&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, you may destroy target creature facing right in its art. (Creatures without faces don't face anywhere.)",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "63139b63d0f90bdae99292a091e7279ab421a9b9"
+    },
+    {
+      "name": "Sly Spy (e)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, that player reveals the top card of his or her library. Put that card into your hand and you lose life equal to its converted mana cost.",
+      "flavor": "The Agents of S.N.E.A.K.—Spies Nimbly Eluding Adversaries' Knives.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439653,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439653&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, that player reveals the top card of his or her library. Put that card into your hand and you lose life equal to its converted mana cost.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "cfee9df85434ca60c5536d9403e1d4ef91e5d7de"
+    },
+    {
+      "name": "Sly Spy (f)",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Spy",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Spy"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Whenever Sly Spy deals combat damage to a player, roll a six-sided die. That player loses life equal to the result.",
+      "flavor": "The Agents of S.N.E.A.K.—Subpar, Notoriously Evil Agent Killers.",
+      "artist": "Michael Phillippi",
+      "number": "67",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439654,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439654&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Whenever Sly Spy deals combat damage to a player, roll a six-sided die. That player loses life equal to the result.",
+      "originalType": "Creature — Human Spy",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f4ab621ea807a02eefd76118bf3e3d50087f34d2"
+    },
+    {
+      "name": "Snickering Squirrel",
+      "manaCost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Squirrel Advisor",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Squirrel",
+        "Advisor"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "You may tap Snickering Squirrel to increase the result of a die any player rolled by 1.",
+      "flavor": "\"In this line of work, you've got to know how to squirrel things away. Quite literally, in my case.\"",
+      "artist": "Michael Phillippi",
+      "number": "68",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439457,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439457&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "You may tap Snickering Squirrel to increase the result of a die any player rolled by 1.",
+      "originalType": "Creature — Squirrel Advisor",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "cab6836c1a951030ac6e1512a30ef44d1d388eea"
+    },
+    {
+      "name": "Spike, Tournament Grinder",
+      "manaCost": "{2}{B/P}{B/P}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Legendary Creature — Human Gamer",
+      "supertypes": [
+        "Legendary"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Gamer"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "({B/P} can be paid with either {B} or 2 life.)\n{B/P}{B/P}{B/P}{B/P}: Choose a card you own from outside the game that has been banned or restricted in a Constructed format, reveal that card, and put it into your hand.",
+      "flavor": "\"Just wait—I have a response.\"",
+      "artist": "Zoltan Boros",
+      "number": "69",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439458,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439458&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "({B/P} can be paid with either {B} or 2 life.)\n{B/P}{B/P}{B/P}{B/P}: Choose a card you own from outside the game that has been banned or restricted in a Constructed format, reveal that card, and put it into your hand.",
+      "originalType": "Legendary Creature — Human Gamer",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7378bfffd12ed08550db2b7acb175f4d71f7e8e4"
+    },
+    {
+      "name": "Squirrel-Powered Scheme",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Increase the result of each die you roll by 2.",
+      "flavor": "Lucinda didn't know which she enjoyed most: the science, the squirrels, or the maniacal laughter.",
+      "artist": "Even Amundsen",
+      "number": "70",
+      "layout": "normal",
+      "multiverseid": 439459,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439459&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Increase the result of each die you roll by 2.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d8c09c7a4489ce50daaaf36754b1e414b481b6b5"
+    },
+    {
+      "name": "Steady-Handed Mook",
+      "manaCost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Human Rigger",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Human",
+        "Rigger"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Deathtouch\nWhen Steady-Handed Mook enters the battlefield, it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "flavor": "A mook's life span is just long enough to get just good enough to get careless.",
+      "artist": "Carl Frank",
+      "number": "71",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": 439460,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439460&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Deathtouch\nWhen Steady-Handed Mook enters the battlefield, it assembles a Contraption. (Put the top card of your Contraption deck face up onto one of your sprockets.)",
+      "originalType": "Creature — Human Rigger",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7821e8e65b0bad740cc74ae8b003fceaed0ea2e3"
+    },
+    {
+      "name": "Stinging Scorpion",
+      "manaCost": "{4}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Host Creature — Scorpion",
+      "types": [
+        "Host",
+        "Creature"
+      ],
+      "subtypes": [
+        "Scorpion"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "When this creature enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.",
+      "artist": "YW Tang",
+      "number": "72",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": 439461,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439461&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "When this creature enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.",
+      "originalType": "Host Creature — Scorpion",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "45980f14f3aeb113391234a791b10a8930f569e4"
+    },
+    {
+      "name": "Subcontract",
+      "manaCost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "A person outside the game looks at target opponent's hand and chooses a nonland card from it. That player discards that card.",
+      "flavor": "Martha was in and out in exactly two minutes—thirty seconds to administer the poison plus a minute and a half to properly refold the napkins.",
+      "artist": "Hector Ortiz",
+      "number": "73",
+      "layout": "normal",
+      "multiverseid": 439462,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439462&type=card",
+      "watermark": "Agents of S.N.E.A.K.",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "A person outside the game looks at target opponent's hand and chooses a nonland card from it. That player discards that card.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "512c4dcf77a771d037b67525f87ae5343415ef67"
+    },
+    {
+      "name": "Summon the Pack",
+      "manaCost": "{7}{B}",
+      "cmc": 8,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "Open a sealed Magic booster pack, reveal the cards, and put all creature cards revealed this way onto the battlefield under your control. They're Zombies in addition to their other types. (Remove those cards from your deck before beginning a new game.)",
+      "artist": "Matt Cavotta",
+      "number": "74",
+      "layout": "normal",
+      "multiverseid": 439463,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439463&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "Open a sealed Magic booster pack, reveal the cards, and put all creature cards revealed this way onto the battlefield under your control. They're Zombies in addition to their other types. (Remove those cards from your deck before beginning a new game.)",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "88d529609efeadade03728a65bc5968582ac1691"
+    },
+    {
+      "name": "Zombified",
+      "cmc": 0,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Uncommon",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{4}{B}: Combine Zombified from your graveyard with target host.\n{2}{B}, Exile a creature card from your graveyard:\nAugment {4}{B} ({4}{B}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "artist": "Kev Walker",
+      "number": "75",
+      "power": "+2",
+      "toughness": "+2",
+      "layout": "normal",
+      "multiverseid": 439464,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439464&type=card",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{4}{B}: Combine Zombified from your graveyard with target host.\n{2}{B}, Exile a creature card from your graveyard:\nAugment {4}{B} ({4}{B}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)",
+      "originalType": "Creature — Zombie",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1b1f9cf5274739637dc5524af7334ec89f9cd49b"
+    },
+    {
+      "name": "The Big Idea",
+      "manaCost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R",
+        "B"
+      ],
+      "type": "Legendary Creature — Brainiac Villain",
+      "supertypes": [
+        "Legendary"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Brainiac",
+        "Villain"
+      ],
+      "rarity": "Rare",
+      "set": "UST",
+      "setName": "Unstable",
+      "text": "{2}{B/R}{B/R}, {T}: Roll a six-sided die. Create a number of 1/1 red Brainiac creature tokens equal to the result.\nTap three untapped Brainiacs you control: The next time you would roll a six-sided die, instead roll two six-sided dice and use the total of those results.",
+      "artist": "Bram Sels",
+      "number": "76",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": 439465,
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439465&type=card",
+      "watermark": "League of Dastardly Doom",
+      "printings": [
+        "UST"
+      ],
+      "originalText": "{2}{B/R}{B/R}, {T}: Roll a six-sided die. Create a number of 1/1 red Brainiac creature tokens equal to the result.\nTap three untapped Brainiacs you control: The next time you would roll a six-sided die, instead roll two six-sided dice and use the total of those results.",
+      "originalType": "Legendary Creature — Brainiac Villain",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9bcce3da22f727711b882c84e3b103d5f85b53a8"
+    }
+  ]
+}
