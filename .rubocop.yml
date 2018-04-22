@@ -1,0 +1,7 @@
+Documentation:
+  Enabled: false
+
+##################### Metrics ##################################
+
+Metrics/LineLength:
+  Max: 100
