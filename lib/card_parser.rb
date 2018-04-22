@@ -12,7 +12,7 @@ class CardParser
   private
 
   def card_attributes(json_entity)
-    colors = json_entity['colors'].map(&:downcase)
+    colors = json_entity['colors'].map(&:downcase).to_set
 
     json_entity
       .slice('id', 'name', 'rarity')

@@ -23,7 +23,7 @@ class TestCardParser < Minitest::Test
   def test_card_downcased_colors
     card = @parser.card(json_fixture['cards'].first)
 
-    assert_equal ['white'], card.colors
+    assert_equal Set['white'], card.colors
   end
 
   def test_card_list_when_empty_returns_empty
